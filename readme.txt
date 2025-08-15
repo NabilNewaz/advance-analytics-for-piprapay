@@ -10,7 +10,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Advance Analytics is a powerful PipraPay plugin that provides detailed transaction analytics and sends real-time push notifications to the PipraPay Payment Panel App — completely free. Get comprehensive insights into your payment data while staying informed with instant alerts for invoice updates, transaction modifications, and more.
+Advance Analytics is a powerful PipraPay plugin that provides detailed transaction analytic to the PipraPay Payment Panel App — completely free. Get comprehensive insights into your payment data.
 
 **Key Features:**
 * Detailed Transaction Analytics
